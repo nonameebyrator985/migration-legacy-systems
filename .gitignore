@@ -1,3 +1,16 @@
+.gitignore
+
+# Ignore node modules
 node_modules/
-dist/
+
+# Ignore distribution files
+ dist/
+
+# Ignore environment variable file
 .env
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
