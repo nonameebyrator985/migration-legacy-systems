@@ -9,5 +9,6 @@
   "dependencies": {
     "eslint": "^7.32.0",
     "commander": "^9.3.0"
-  }
+  },
+  "license": "MIT"
 }
