@@ -10,5 +10,9 @@
     "eslint": "^7.32.0",  // Outil pour le linting du code JavaScript
     "commander": "^9.3.0"  // Outil pour la gestion des commandes en ligne
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": { // Ajout de la métadonnée pour le dépôt
+    "type": "git",
+    "url": "git+https://github.com/username/migration-legacy-systems.git"
+  }
 }
