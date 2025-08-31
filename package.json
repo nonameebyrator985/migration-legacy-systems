@@ -4,11 +4,11 @@
   "description": "Un outil pour automatiser le processus de migration des systèmes légacy vers des architectures modernes.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js"  // Démarrage de l'application
   },
   "dependencies": {
-    "eslint": "^7.32.0",
-    "commander": "^9.3.0"
+    "eslint": "^7.32.0",  // Outil pour le linting du code JavaScript
+    "commander": "^9.3.0"  // Outil pour la gestion des commandes en ligne
   },
   "license": "MIT"
 }
