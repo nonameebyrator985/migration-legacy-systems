@@ -1,0 +1,13 @@
+{
+  "name": "migration-legacy-systems",
+  "version": "1.0.0",
+  "description": "Un outil pour automatiser le processus de migration des systèmes légacy vers des architectures modernes.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "commander": "^9.3.0"
+  }
+}
